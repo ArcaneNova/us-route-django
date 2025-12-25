@@ -1,0 +1,8 @@
+Django>=5.1,<6.0
+djangorestframework>=3.14.0
+psycopg2-binary>=2.9.9
+requests>=2.31.0
+geopy>=2.4.1
+redis>=5.0.1
+python-decouple>=3.8
+dj-database-url>=3.0.0
